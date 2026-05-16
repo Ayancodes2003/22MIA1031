@@ -7,4 +7,4 @@
 4. Fill in `.env` with appropriate credentials.
 
 ## Run
-To be implemented.
+`uvicorn vehicle_maintenance_scheduler.main:app --reload`
